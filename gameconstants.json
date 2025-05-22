@@ -1,0 +1,19 @@
+{
+    "PLANT_GROWTH_RATE": 0.08,
+    "TOTAL_CURRENCY_GAIN_PER_CHARGE": 30,
+    "PEGGLE_CURRENCY_GAIN_PER_PIN": 10,
+    "PEGGLE_50TH_HIT_BONUS": 10,
+    "PEGGLE_WATERDROP_VALUE": 1.7,
+    "PEGGLE_FIRSTSPROUT_BONUS": 20,
+    "SLOT_UNLOCK_PRICES": [
+        0,
+        10000,
+        30000,
+        100000
+    ],
+    "UNLOCK_DECO_ROOMS": [
+        0,
+        16,
+        32
+    ]
+}
